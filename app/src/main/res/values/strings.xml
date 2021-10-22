@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TALLER_18_FRAGMENTS_DATOS</string>
+    <string name="bt1">Siguiente</string>
+    <string name="bt2">Limpiar</string>
+
+    <string name="tv1">Segundo Fragment</string>
+
+</resources>
